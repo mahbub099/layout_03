@@ -1,0 +1,45 @@
+
+.logo{
+	min-height: 100px;
+	background-color: #8a4444;
+}
+.navigation{
+	min-height: 30px; 
+	background-color: #E67E22;
+}
+.header{
+	min-height: 200px; 
+	background-color: #138D75;
+}
+.wraper{
+	overflow: hidden;
+}
+.side_bar{
+	min-height: 400px; 
+	background-color: #FBFCFC;
+	width: 20%;
+	float: left;
+}
+.wraper2{
+	overflow: hidden;
+}
+.bar1{
+	min-height: 200px; 
+	background-color: #F4D03F;
+
+}
+.bar2{
+	min-height: 200px; 
+	background-color: #27AE60;
+	margin-top: 10px; 
+}
+.body_area{
+	min-height: 400px; 
+	background-color: #7D3C98;
+	width: 70%;
+	float:right;
+}
+.footer{
+	min-height: 80px; 
+	background-color: red;
+}
